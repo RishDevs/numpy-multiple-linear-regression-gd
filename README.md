@@ -39,6 +39,4 @@ python scaffold.py
 - [ ] **27.** score_lr_model
 - [ ] **28.** compare_with_normal_equation
 
----
 
-Built on Deep-ML.
